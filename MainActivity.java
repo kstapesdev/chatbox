@@ -1,4 +1,3 @@
-package com.scatterform.chatabox;
 
 import android.content.Intent;
 import android.net.Uri;

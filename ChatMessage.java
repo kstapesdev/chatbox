@@ -1,4 +1,4 @@
-package com.scatterform.chatabox;
+
 
 public class ChatMessage {
 
